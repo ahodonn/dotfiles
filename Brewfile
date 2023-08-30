@@ -1,0 +1,6 @@
+tap "homebrew/bundle"
+tap "osx-cross/arm"
+tap "osx-cross/avr"
+tap "qmk/qmk"
+brew "qmk/qmk/qmk"
+cask "iterm2"
